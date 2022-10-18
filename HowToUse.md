@@ -1,4 +1,7 @@
-## How to use
+The Slicer Language Packs extension enables the deployment and editing of multilingual translations in 3D Slicer.
+
+
+## Getting Started
 
 ### Setup
 
